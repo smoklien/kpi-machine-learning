@@ -1,12 +1,13 @@
-# Assembler Files
-
+# Python bytecode cache files
 **/src/__pycache__
 
-# Word Documents
+# Microsoft Word documents
 *.docx
 
-# Enviorement settings
+# files starting with '~' (temporary files)
+~*
 
+# Visual Studio Code settings
 .vscode
 
 # Additional Ignore Patterns (if needed)
