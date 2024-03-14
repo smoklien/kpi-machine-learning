@@ -141,6 +141,7 @@ print(series)
 
 # 2.
 
+raw_df.head()
 # 3. 
 
 # 4. 
