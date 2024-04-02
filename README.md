@@ -1,11 +1,12 @@
-# Applied Problems of Machine Learning Lab Works Repository
+# Applied Problems of Machine Learning and Data Analysis Lab Works Repository
 
-This repository is my one-stop shop for the source code, documentation, and reports for my Machine Learning Lab works. Get access to various labs, explore their details, and utilize provided resources to effectively complete your assignments.
+This repository is my one-stop shop for the source code, documentation, and reports for my Machine Learning and Data Analysis lab works. Get access to various labs, explore their details, and utilize provided resources to effectively complete your assignments.
 
 ## Repository structure
 
 - `doc`: This folder contains documentation and reports for the lab works.
-- `lab-x`: Each lab has its dedicated directory prefixed with `lab-x`, where `x` represents the specific lab number (e.g., `lab-1`, `lab-2`).
+- `lab-x`: Each **Machine Learning** lab has its dedicated directory prefixed with `lab-x`, where `x` represents the specific lab number (e.g., `lab-1`, `lab-2`).
+- `python-x`: Same as previous but for **Data Analysis**
 - `.gitignore`: Files or folders to ignore.
 
 ## Getting started
@@ -24,5 +25,5 @@ This repository is my one-stop shop for the source code, documentation, and repo
     
 3. Explore my labs:
 
-    - Visit individual lab directories within `lab-x` to access the corresponding source code.
+    - Visit individual lab directories within `lab-x` or `python-x` to access the corresponding source code.
     - Refer to the `docs` folder for relevant reports and additional documentation.
