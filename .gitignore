@@ -15,4 +15,7 @@
 *.jpg
 *.jpeg
 
+# Additional information and code
+sample
+
 # Additional Ignore Patterns (if needed)
