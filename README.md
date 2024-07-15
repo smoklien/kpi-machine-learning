@@ -4,7 +4,6 @@ This repository is my one-stop shop for the source code, documentation, and repo
 
 ## Repository structure
 
-- `doc`: This folder contains documentation and reports for the lab works.
 - `lab-x`: Each **Machine Learning** lab has its dedicated directory prefixed with `lab-x`, where `x` represents the specific lab number (e.g., `lab-1`, `lab-2`).
 - `python-x`: Same as previous but for **Data Analysis**
 - `.gitignore`: Files or folders to ignore.
