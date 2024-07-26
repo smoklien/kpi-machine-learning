@@ -1,14 +1,16 @@
-# Applied Problems of Machine Learning and Data Analysis Lab Works Repository
+# kpi-machine-learning
+
+__Applied Problems of Machine Learning and Data Analysis Lab Works Repository__
 
 This repository is my one-stop shop for the source code, documentation, and reports for my Machine Learning and Data Analysis lab works. Get access to various labs, explore their details, and utilize provided resources to effectively complete your assignments.
 
-## Repository structure
+# Repository structure
 
 - `lab-x`: Each **Machine Learning** lab has its dedicated directory prefixed with `lab-x`, where `x` represents the specific lab number (e.g., `lab-1`, `lab-2`).
 - `python-x`: Same as previous but for **Data Analysis**
 - `.gitignore`: Files or folders to ignore.
 
-## Getting started
+# Getting started
 
 1. Clone the repository
 
