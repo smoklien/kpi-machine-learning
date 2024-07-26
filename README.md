@@ -1,7 +1,5 @@
 # kpi-machine-learning
 
-__Applied Problems of Machine Learning and Data Analysis Lab Works Repository__
-
 This repository is my one-stop shop for the source code, documentation, and reports for my Machine Learning and Data Analysis lab works. Get access to various labs, explore their details, and utilize provided resources to effectively complete your assignments.
 
 # Repository structure
