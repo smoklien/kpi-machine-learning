@@ -4,8 +4,8 @@ This repository is my one-stop shop for the source code, documentation, and repo
 
 # Repository structure
 
-- `lab-x`: Each **Machine Learning** lab has its dedicated directory prefixed with `lab-x`, where `x` represents the specific lab number (e.g., `lab-1`, `lab-2`).
-- `python-x`: Same as previous but for **Data Analysis**
+- `ml`: **Machine Learning** labs.
+- `da`: **Data Analysis** labs.
 - `.gitignore`: Files or folders to ignore.
 
 # Getting started
@@ -24,5 +24,5 @@ This repository is my one-stop shop for the source code, documentation, and repo
     
 3. Explore my labs:
 
-    - Visit individual lab directories within `lab-x` or `python-x` to access the corresponding source code.
+    - Visit individual lab directories within `ml` or `da` to access the corresponding source code.
     - Refer to the `docs` folder for relevant reports and additional documentation.
